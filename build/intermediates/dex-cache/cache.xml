@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6069871c8957e467e881f446647a1e9d0aff4c16">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\instant-run_97c2b7b26562ae18145ff084132ec23744b4e266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_2d824543822cd5407d94ccfd26f12fa995541b68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio1\gradle\m2repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\commons-lang3-3.3.2_4c23a06953ec69afc60ccb0a164983a0859c0846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_9fc45f81ca2810638b3833c4e630d44a66d39fe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e11fc7901832c785216215ee242bdc7fb63ff3db">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_600ac4e5b6883948f68373c76869408fb02517c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_b8fdfd04cee276ebf9c6a576daa19abebb7cb020.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajar Fachrurrozzy\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\okio-1.9.0_de88c89451e47319d5163d4f3a9e1af384467f24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\exploded-aar\org.osmdroid\osmdroid-android\5.6.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b325ed66dffa4ffd6e733cb452986bb3159d756">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\org.osmdroid-osmdroid-android-5.6.5_43d42d59e89135fde0424cfc3806dd0d1f47e961.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_b0e305ea38bf0ec3f8671554a16c4ba121ba988f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\exploded-aar\com.github.MKergall\osmbonuspack\6.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba8b17f4d98f070709474217bff78f6aa11391d8">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\com.github.MKergall-osmbonuspack-6.4_221c6d7ad4165ff2f3d8009677fca1435cfe543e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajar Fachrurrozzy\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_324c6bd2d8d3b878875d880572df0c63930a07f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_8fdf70ea71949050c050a089a3116614ae2a45dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_e9a3a57e33ed16f1acb0f7b51779fbcdfe7887df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_8d4b687468ecc1ca7c299566afa5f508978648f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_8e59c98cd7fed4134576adce5237ad3304308c91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Fajar Fachrurrozzy\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\gson-2.7_d5a766d8c4068a9d7853e7da610f36885a8be2d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_552928e84e3af0da09ab03c6b229a775ba91104a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MASTER\PEMROGRAMAN &amp; APLIKASI PERKULIAHAN\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\PRAKTIKUM\android\PAULMAP\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_29ae770499820e664b7515942bd532ad9c5e8026.jar" />
+    </item>
+
+</items>
